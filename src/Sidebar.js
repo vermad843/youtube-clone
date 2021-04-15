@@ -11,7 +11,7 @@ function Sidebar() {
              <SidebarRow Icon= {HomeIcon} title = "Home"/>
              <SidebarRow Icon = {WhatshotIcon} title = "Trending"/>
              <SidebarRow Icon = {SubscriptionsIcon} title = "Subscription"/>
-             <hr/>
+             {/* <hr/> */}
              {/* <SidebarRow title = "Library"/>
              <SidebarRow title = "History"/>
              <SidebarRow title = "Your videos"/>
