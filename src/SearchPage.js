@@ -29,7 +29,35 @@ function SearchPage() {
               channel = "EverythingMusic"
               title = "Birthday"
               image = "https://i.ytimg.com/vi/4RTte4RA1Sg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOdlLEgQtra4DmRSoMZCCCN8mKmw"
+               />  
+            <VideoRow
+               views = "1.4M"
+               subs = "659k"
+               description = "Amazing music video by everythingMusic"
+               timestamp = "59 seconds ago"
+               channel = "EverythingMusic"
+               title = "Birthday"
+               image = "https://i.ytimg.com/vi/4RTte4RA1Sg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOdlLEgQtra4DmRSoMZCCCN8mKmw"
+                />
+            <VideoRow
+              views = "1.4M"
+              subs = "659k"
+              description = "Amazing music video by everythingMusic"
+              timestamp = "59 seconds ago"
+              channel = "EverythingMusic"
+              title = "Birthday"
+              image = "https://i.ytimg.com/vi/4RTte4RA1Sg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOdlLEgQtra4DmRSoMZCCCN8mKmw"
                />
+            <VideoRow
+              views = "1.4M"
+              subs = "659k"
+              description = "Amazing music video by everythingMusic"
+              timestamp = "59 seconds ago"
+              channel = "EverythingMusic"
+              title = "Birthday"
+              image = "https://i.ytimg.com/vi/4RTte4RA1Sg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOdlLEgQtra4DmRSoMZCCCN8mKmw"
+               />
+            
         </div>
     )
 }
