@@ -11,18 +11,18 @@ function App() {
        <Router>
           <Switch>
               <Route path = "/search">
+                 <Header/>
                  <h1>Search Page</h1>
               </Route>
               <Route path = "/">
-                 <h1>Home Page</h1>
+                 <Header/>
+                 <div className = "app__page">
+                    <Sidebar/>
+                    <RecommendedVideos/>
+                 </div>
               </Route>
           </Switch>
        </Router>
-       {/* <Header/>
-           <div className = "app__page">
-              <Sidebar/>
-              <RecommendedVideos/>
-           </div> */}
     </div>
   );
 }
