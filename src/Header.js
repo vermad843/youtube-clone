@@ -14,11 +14,13 @@ function Header() {
         <div className = "header">
              <div className = "header__left">
                 <MenuIcon/>
-                <img
-                   className = "header__logo"
-                   src = "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
-                   alt = "" 
-               />
+                <Link to="/">
+                   <img
+                      className = "header__logo"
+                      src = "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+                      alt = "" 
+                   />
+                </Link>
              </div>
              <div className = "header__input">
                 <input
