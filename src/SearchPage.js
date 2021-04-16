@@ -7,9 +7,10 @@ function SearchPage() {
         <div className = "searchPage">
             <div className = "searchPage__filter">
                 <TuneOutlinedIcon/>
+                <h2>Filter</h2>
             </div>
         </div>
     )
 }
 
-export default SearchPage
+export default SearchPage;
