@@ -2,6 +2,7 @@ import React from 'react';
 import TuneOutlinedIcon from '@material-ui/icons/TuneOutlined';
 import './SearchPage.css';
 import ChannelRow from './ChannelRow';
+import VideoRow from './VideoRow';
 
 function SearchPage() {
     return (
@@ -19,6 +20,8 @@ function SearchPage() {
               noOfVideos={382}
               description = "Amazing Songs You can find here"
              />
+             <hr/>
+             <VideoRow/>
         </div>
     )
 }
